@@ -20,7 +20,7 @@ git config --global user.name "your_name"
 
 git config --global user.email "your_email@example.com"
  
-// 설정한 내용을 확인할 수 있다.
+# 설정 내용을 확인
 
 git config --list
 
