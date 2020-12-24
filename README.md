@@ -32,6 +32,10 @@ git branch
 
 - 이것은 브랜치가 master 것이고 현재 브랜치도 master 임을 나타내는 것입니다.
 
+active branch 이동
+
+- git checkout branch명
+
 # git push -u origin master 명령어
 
 - 첫 커밋을 할때만 사용하는 명령어이며 이후에는 git push 명령어만 사용하면 됩니다.
